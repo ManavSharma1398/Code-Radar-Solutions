@@ -2,7 +2,7 @@
 int main()
 {
     float a;
-    int area;
+    float area;
     scanf("%f",&a);
     area=(3.14)*a*a;
     printf("Area: %.2f",area);
