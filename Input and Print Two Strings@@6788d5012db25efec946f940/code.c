@@ -3,7 +3,7 @@ int main()
 {
     char a[100];
     char n[100];
-    scanf("%c%c",&a,&n);
-    printf("You entered: %c and %c");
+    scanf("%s%s",&a,&n);
+    printf("You entered: %s and %s",a,n);
     return 0;
 }
