@@ -1,9 +1,10 @@
 #include<stdio.h>
 int main()
 {
-    float a,b;
+    float a,b,pro;
     scanf("%f %f",&a,&b);
-    printf("Product: %2f",(a*b));
+    pro=a*b;
+    printf("Product: %2f",);
     return 0;
 
 }
