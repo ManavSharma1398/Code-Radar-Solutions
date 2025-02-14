@@ -9,6 +9,6 @@ int main()
     }
     else
     {
-        printf("No");
+        printf("No",a,b);
     }
 }
