@@ -5,19 +5,19 @@ int main()
     scanf("%c",&n);
     switch(n)
     {
-        case A:
+        case 'A':
             printf("Excellent");
             break;
-        case B:
+        case 'B':
             printf("Good");
             break;
-        case C:
+        case 'c':
             printf("Average");
             break;
-        case D:
+        case 'D':
             printf("Below");
             break;
-        case F:
+        case 'F':
             printf("Fail");
             break;
         default:
