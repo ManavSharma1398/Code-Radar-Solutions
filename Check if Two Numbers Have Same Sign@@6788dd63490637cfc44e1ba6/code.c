@@ -9,6 +9,9 @@ int main()
     }
     else if ((a<=0)&&(b<=0))
     {
-        printf("Differnt sign");
+        printf("Same Sign");
+    }
+    else{
+        printf("Differnt Sign");
     }
 }
