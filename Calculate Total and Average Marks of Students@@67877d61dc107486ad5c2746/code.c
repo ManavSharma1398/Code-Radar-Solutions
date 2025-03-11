@@ -16,4 +16,7 @@ int main(){
         marks=marks+students[i].marks;
         
 }
-printf("Average Marks: %.2f",marks/n);}
+
+printf("Total Marks: %.2f\n",marks);
+printf("Average Marks: %.2f",marks/n);
+}
